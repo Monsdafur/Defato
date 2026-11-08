@@ -1,0 +1,2 @@
+typos:
+  typos -w
